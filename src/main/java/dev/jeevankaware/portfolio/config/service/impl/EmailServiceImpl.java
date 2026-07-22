@@ -20,12 +20,14 @@ public class EmailServiceImpl implements EmailService {
     public void sendEmail(
             String to,
             String subject,
-            String message
+            String message,
+            String replyTo
     ) {
 
         SimpleMailMessage mail = new SimpleMailMessage();
 
         mail.setFrom(mailUsername);
+        mail.setReplyTo(replyTo);
         mail.setTo(to);
         mail.setSubject(subject);
         mail.setText(message);

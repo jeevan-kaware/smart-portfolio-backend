@@ -49,7 +49,8 @@ public class ContactController {
         emailService.sendEmail(
                 "jeevan.kaware.dev@gmail.com",
                 subject,
-                body
+                body,
+                request.email()
         );
 
         return Map.of(
