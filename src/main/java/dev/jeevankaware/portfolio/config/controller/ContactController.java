@@ -12,7 +12,10 @@ import java.util.Map;
 @RestController
 @RequestMapping("/api/contact")
 @RequiredArgsConstructor
-@CrossOrigin(origins = "http://localhost:8081/")
+@CrossOrigin(origins = {
+        "http://localhost:5173",
+        "https://smart-portfolio-kappa-eight.vercel.app"
+})
 public class ContactController {
 
     private final EmailService emailService;

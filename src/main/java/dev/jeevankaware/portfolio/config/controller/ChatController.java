@@ -8,7 +8,10 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/chat")
-@CrossOrigin(origins = "http://localhost:8081/")
+@CrossOrigin(origins = {
+        "http://localhost:5173",
+        "https://smart-portfolio-kappa-eight.vercel.app"
+})
 public class ChatController {
 
   private final ChatService chatService;
