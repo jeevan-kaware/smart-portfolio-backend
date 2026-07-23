@@ -734,15 +734,3 @@ Your support motivates me to continue building production-ready Java Backend, Sp
 # 🚀 Built with Java, Spring Boot, Spring AI, Google Gemini, Docker and ❤️
 
 ### Thank you for visiting this repository!
-
-<img src="https://img.shields.io/github/stars/jeevan-kaware/smart-portfolio-backend?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/forks/jeevan-kaware/smart-portfolio-backend?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/last-commit/jeevan-kaware/smart-portfolio-backend?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/issues/jeevan-kaware/smart-portfolio-backend?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/repo-size/jeevan-kaware/smart-portfolio-backend?style=for-the-badge"/>
-
-</div>
