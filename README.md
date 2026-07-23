@@ -689,7 +689,7 @@ If you'd like to improve this project:
 
 ## Jeevan Kaware
 
-**Java Backend Developer | Spring Boot Developer | AI Enthusiast**
+**Java Backend Developer | Spring Boot Developer**
 
 ### 🔗 GitHub
 
